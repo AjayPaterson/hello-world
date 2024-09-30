@@ -1,4 +1,4 @@
-#About Me#
+# About Me
 1.  😎  Hello, I'm @Ajay Paterson
 2.  🤓  I'm interested in becoming a Web Developer and have recently enrolled in a continuing education diploma program at the University of Alberta to learn about this.
 3.  🔰  I'm currently learning Git, GitHub, HTML, and Web Design
