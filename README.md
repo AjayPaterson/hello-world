@@ -1,8 +1,12 @@
 # About Me
-1.  😎  Hello, I'm @Ajay Paterson
-2.  🤓  I'm interested in becoming a Web Developer and have recently enrolled in a continuing education diploma program at the University of Alberta to learn about this.
-3.  🔰  I'm currently learning Git, GitHub, HTML, and Web Design
-4.  🖐️  I'm looking to collaborate on any basic level coding work as I'm just a beginner.
-5.  📧  You can reach me ajay.paterson@gmail.com
-6.  👦  Pronous: He/Him
-7.  👀 🎵Fun fact: I have a black belt in TaeKwon Do (but have not been practicing in many years), and also have a background in music.
+Hi, I'm **@AjayPaterson** and I'm currently enrolled in the continuing education program at the University of Alberta for Web Development. 
+
+My educational background is a bit all over the place, starting with Music Performance, Commerce/ Management, Project Management.  
+
+Recently I've been exposed to projects that have me diving into the tech sector!  Although I'm relatively new to this, I'm a life-long learner and would eventually like to make a career change into the industry.
+
+## Program Experience
+- SQL
+- R
+- Python
+
